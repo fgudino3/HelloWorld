@@ -10,7 +10,7 @@
 !WebContent/**
 
 # others to not ignore
-/*.txt
-/*.md
+!/*.txt
+!/*.md
 
 !.gitignore
